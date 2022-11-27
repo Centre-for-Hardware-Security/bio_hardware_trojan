@@ -1,0 +1,27 @@
+Design,# Sequential,# Comb.,delta seq,delta comb,Leakage (mW),Dynamic Power (mW),Total Power (mW),WNS (ps)
+original,1806,7381,,,0.512,45.358,45.87,0.049
+FSM_mod,1830,7466,24,85,0.534,46.736,47.27,0.02
+FSM_waste,1846,7456,40,75,0.536,46.744,47.28,0.031
+combinatorial_mod_fsm,1810,7399,4,18,0.627,51.113,51.74,-0.07
+combinatorial_waste,1843,7452,37,71,0.537,46.723,47.26,0.034
+counter_mod_fsm,1830,7466,24,85,0.534,46.736,47.27,0.02
+counter_waste,1863,7521,57,140,0.534,46.726,47.26,0.045
+FSM_mod_large,1826,7435,20,54,0.533,46.627,47.16,0.02
+combinatorial_mod_fsm_large,1810,7415,4,34,0.66,51.73,52.39,-0.158
+combinatorial_waste_large,2067,7900,261,519,0.535,47.065,47.6,0.024
+counter_mod_fsm_large,1879,7683,73,302,0.536,46.464,47,0.02
+sha256_final_combinatorial_fault_ti-16_tc-5678_pd-5,1816,7399,10,18,0.523,45.667,46.19,0.013
+sha256_final_combinatorial_leak_am_ti-16_tc-5678_pd-5,1843,7481,37,100,0.522,45.608,46.13,0.026
+sha256_final_combinatorial_leak_dbpsk_ti-16_tc-5678_pd-5,1820,7412,14,31,0.521,45.559,46.08,0.021
+sha256_final_combinatorial_leak_fsk_ti-16_tc-5678_pd-5,1819,7412,13,31,0.517,45.443,45.96,0.048
+sha256_final_combinatorial_leak_lfsr_ti-16_tc-5678_pd-5,1839,7453,33,72,0.522,45.618,46.14,0.021
+sha256_final_complexfsm_fault_ti-6_ts-3_pd-5,1819,7403,13,22,0.519,45.561,46.08,0.027
+sha256_final_complexfsm_leak_am_ti-6_ts-3_pd-5,1846,7484,40,103,0.521,45.609,46.13,0.02
+sha256_final_complexfsm_leak_dbpsk_ti-6_ts-3_pd-5,1823,7415,17,34,0.518,45.422,45.94,0.019
+sha256_final_complexfsm_leak_fsk_ti-6_ts-3_pd-5,1822,7415,16,34,0.518,45.452,45.97,0.024
+sha256_final_complexfsm_leak_lfsr_ti-6_ts-3_pd-5,1842,7459,36,78,0.52,45.54,46.06,0.022
+sha256_final_counter_fault_ti-16_tm-ffff_tw-16_pd-5,1850,7492,44,111,0.52,45.87,46.39,0.024
+sha256_final_counter_leak_am_ti-16_tm-ffff_tw-16_pd-5,1877,7576,71,195,0.524,46.046,46.57,0.03
+sha256_final_counter_leak_dbpsk_ti-16_tm-ffff_tw-16_pd-5,1854,7505,48,124,0.521,45.929,46.45,0.023
+sha256_final_counter_leak_fsk_ti-16_tm-ffff_tw-16_pd-5,1853,7505,47,124,0.524,46.116,46.64,0.021
+sha256_final_counter_leak_lfsr_ti-16_tm-ffff_tw-16_pd-5,1873,7546,67,165,0.523,45.877,46.4,0.024
