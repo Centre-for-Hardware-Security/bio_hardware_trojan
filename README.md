@@ -10,7 +10,7 @@
 #
 #  'Techincal University of Munich
 #
-#  ''Tallinn University of Techology
+#  ''Tallinn University of Techonology
 #
 ################################################################################
 #
