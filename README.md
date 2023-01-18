@@ -2,9 +2,11 @@
 
   IEEE/ACM International Conference on Computer-Aided Design (ICCAD) 2022
   
-  Authors: A. Hepp', T. Perez'', S. Pagliarini'', G. Sigl'  
-'Techincal University of Munich  
-''Tallinn University of Techonology
+  Authors: A. Hepp*, T. Perez+, S. Pagliarini+, G. Sigl*
+  
+\*Technical University of Munich
+
+\+Tallinn University of Techonology
 
 #
 
